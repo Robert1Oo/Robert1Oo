@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Roberto! 👋
 
-<!--
-**Robert1Oo/Robert1Oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Mechatronics Engineer with a focus (NOW) on DevOps Engineering. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 Skills and Tools
+- **Languages**: Python, C/C++, Bash.
+- **Frameworks/Platforms**: AWS, Terraform, Kubernetes.
+- **Tools**: Docker, Git, Ansible.
+- **Operating Systems**: Linux (Void, Ubuntu).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+Here are some of my recent projects that showcase my skills:
+
+### [Project 1: DevOps Web App](https://github.com/Robert1Oo/DevOps)
+A web application for practising DevOps tools using Docker, Terraform, Ansible and Kubernetes.  
+**Tech**: Python, Flask, Terraform, Docker, AWS.
+
+
+## 📫 Get in Touch
+- Email: oo.robert@yahoo.com
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/robert1oo)
